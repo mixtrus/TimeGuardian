@@ -187,17 +187,6 @@ Icon states:
 
 ---
 
-## 📛 Project Metadata
-
-- Name: TimeGuardian
-- One‑liner: Ultra‑precise Windows time sync tray app with elegant UX and smart NTP selection
-- Long Description: A Windows system tray application that keeps your clock pristine with median‑based NTP timing, resilient IP‑based timezone, optional region tuning, high‑resolution ping lab, and beautiful UI/UX — minimal, thoughtful, and production‑grade.
-- Topics (add these to your GitHub repo):
-  - `windows` `ntp` `time-synchronization` `tray-app` `pyside6` `qt` `python` `timezone` `latency` `productivity`
-  - `system-utilities` `accuracy` `networking` `desktop-app` `auto-start` `notifications`
-
----
-
 ## 📥 Install (Source)
 
 ```bash
